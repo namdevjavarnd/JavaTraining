@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+
+/out/
+/target/
+/LMS.iml
+/.settings/
+/Workpad
+/.project
+/.classpath
+/.springBeans
+/.idea/
+/aop_logging.txt
+
